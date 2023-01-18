@@ -1,0 +1,29 @@
+.main {
+  padding: 20px;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+
+  border-radius: 16px;
+  width: 200px;
+  height: 200px;
+  background-color: pink;
+}
+.todolist {
+  display: flex;
+  flex-direction: column;
+}
+.contents {
+  display: flex;
+  border: 1px solid black;
+}
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: pink;
+  margin: 0px;
+}
