@@ -51,7 +51,7 @@
   "bugs": {
     "url": "https://github.com/j1y0ungyoon/sundayTodolist/issues"
   },
-  "homepage": "https://github.com/j1y0ungyoon/sundayTodolist#readme",
+  "homepage": ".",
   "devDependencies": {
     "@types/uuid": "^9.0.0"
   }
